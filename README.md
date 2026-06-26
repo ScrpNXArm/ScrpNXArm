@@ -44,8 +44,7 @@ I focus on clean UI, smooth user experience, and efficient backend systems.
 ### 💼 Portfolio Website
 Modern developer portfolio with animations and responsive design.
 - ⚙️ Tech: React, Tailwind CSS
-- 🌐 Live: https://your-link.com
-- 📂 Repo: [https://github.com/USERNAME/portfolio](https://scrpnxarm.github.io/Portfolio/)
+- 📂 Repo: [[https://github.com/USERNAME/portfolio](https://scrpnxarm.github.io/Portfolio/)](https://scrpnxarm.github.io/Portfolio/)
 
 ---
 
