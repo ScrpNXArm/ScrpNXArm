@@ -90,9 +90,8 @@ Responsive online store with cart system and payment integration.
 
 ## 📬 Contact Me
 
-- 📧 Email: yourname@gmail.com  
-- 💼 Fiverr: https://fiverr.com/yourprofile  
-- 💻 GitHub: https://github.com/USERNAME  
+- 📧 Email: aarmanyazid@gmail.com   
+- 💻 GitHub: [https://github.com/USERNAME ](https://github.com/ScrpNXArm) 
 - 🔗 LinkedIn: https://www.linkedin.com/in/scorpion-nw-b45b0b363?utm_source=share_via&utm_content=profile&utm_medium=member_ios
 
 ---
