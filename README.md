@@ -52,8 +52,7 @@ Modern developer portfolio with animations and responsive design.
 ### 📊 Admin Dashboard
 Full-stack dashboard system with authentication and CRUD features.
 - ⚙️ Tech: Node.js, Express, MySQL
-- 🌐 Live: https://your-link.com
-- 📂 Repo: https://github.com/USERNAME/dashboard
+- 📂 Repo: https://github.com/ScrpNXArm/dashboard
 
 ---
 
@@ -61,15 +60,15 @@ Full-stack dashboard system with authentication and CRUD features.
 Responsive online store with cart system and payment integration.
 - ⚙️ Tech: React, Node.js, MongoDB
 - 🌐 Live: https://your-link.com
-- 📂 Repo: https://github.com/USERNAME/ecommerce
+- 📂 Repo: https://github.com/ScrpNXArm/ecommerce
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ScrpNXArm&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ScrpNXArm&layout=compact&theme=tokyonight)
 
 ---
 
