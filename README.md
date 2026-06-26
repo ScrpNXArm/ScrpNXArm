@@ -1,4 +1,4 @@
-# Hi, I'm YOUR_NAME 👋
+# Hi, I'm ARMAN YAZID 👋
 ### 🚀 Full Stack Developer | UI/UX Enthusiast | Freelancer
 
 ---
