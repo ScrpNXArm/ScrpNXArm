@@ -49,18 +49,20 @@ Modern developer portfolio with animations and responsive design.
 
 ---
 
-### 📊 Admin Dashboard
-Full-stack dashboard system with authentication and CRUD features.
+### 📊 Admin Dashboard (WIP)
+Full-stack admin dashboard system with authentication, role management, and CRUD features.
+
 - ⚙️ Tech: Node.js, Express, MySQL
-- 📂 Repo: https://github.com/ScrpNXArm/dashboard
+- 🚧 Status: In Development
+- 📂 Repo: Coming soon
 
 ---
 
-### 🛒 E-Commerce Website
-Responsive online store with cart system and payment integration.
+### 🛒 E-Commerce Project (Coming Soon)
+Currently developing a full-stack e-commerce website with cart system, authentication, and admin dashboard.
+
 - ⚙️ Tech: React, Node.js, MongoDB
-- 🌐 Live: https://your-link.com
-- 📂 Repo: https://github.com/ScrpNXArm/ecommerce
+- 🚧 Status: In Development
 
 ---
 
