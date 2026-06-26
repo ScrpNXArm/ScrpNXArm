@@ -1,4 +1,4 @@
-# Hi, I'm ARMAN YAZID 👋
+# Hi, I'm YOUR_NAME 👋
 ### 🚀 Full Stack Developer | UI/UX Enthusiast | Freelancer
 
 ---
@@ -34,7 +34,7 @@ I focus on clean UI, smooth user experience, and efficient backend systems.
 
 ### 🔧 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub]([https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white](https://scrpnxarm.github.io/Portfolio/))
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
@@ -45,7 +45,7 @@ I focus on clean UI, smooth user experience, and efficient backend systems.
 Modern developer portfolio with animations and responsive design.
 - ⚙️ Tech: React, Tailwind CSS
 - 🌐 Live: https://your-link.com
-- 📂 Repo: https://github.com/USERNAME/portfolio
+- 📂 Repo: [https://github.com/USERNAME/portfolio](https://scrpnxarm.github.io/Portfolio/)
 
 ---
 
@@ -90,9 +90,10 @@ Responsive online store with cart system and payment integration.
 
 ## 📬 Contact Me
 
-- 📧 Email: armanyazid50@gmail.com  e  
-- 💻 GitHub: [https://github.com/USERNAME](https://github.com/ScrpNXArm)  
-- 🔗 LinkedIn: https://linkedin.com/in/yourprofile ](https://www.linkedin.com/in/scorpion-nw-b45b0b363?utm_source=share_via&utm_content=profile&utm_medium=member_ios) 
+- 📧 Email: yourname@gmail.com  
+- 💼 Fiverr: https://fiverr.com/yourprofile  
+- 💻 GitHub: https://github.com/USERNAME  
+- 🔗 LinkedIn: https://www.linkedin.com/in/scorpion-nw-b45b0b363?utm_source=share_via&utm_content=profile&utm_medium=member_ios
 
 ---
 
@@ -103,9 +104,3 @@ Responsive online store with cart system and payment integration.
 ---
 
 ⭐ If you like my work, feel free to follow and star my repositories!
-- 📧 Email: [armanyazid50@gmail.com]
-- 💼 LinkedIn: [https://www.linkedin.com/in/scorpion-nw-b45b0b363?utm_source=share_via&utm_content=profile&utm_medium=member_ios]
-
----
-
-*Building the web, one commit at a time* ✨
