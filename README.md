@@ -1,105 +1,91 @@
-# Hi, I'm ARMANZ 👋
-### 🚀 Full Stack Developer | UI/UX Enthusiast | Freelancer
+# 👋 Hi, I'm ARMANZ
+
+## 🚀 Indie Web & Game Developer
+
+I build interactive digital products — from web platforms to game community systems — focusing on clean design, practical functionality, and real user experience.
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 About Me
 
-I'm a passionate developer who enjoys building modern, responsive, and scalable web applications.  
-I focus on clean UI, smooth user experience, and efficient backend systems.
+I'm a self-driven developer passionate about turning ideas into working digital products.
 
-- 🔭 Currently working on: Web Apps & SaaS Projects  
-- 🌱 Learning: Advanced React, System Design, and Cloud Deployment  
-- 💼 Open for Freelance Work (Fiverr / Upwork / Private Projects)  
-- ⚡ Fun fact: I love turning ideas into real products
+Instead of just building practice projects, I focus on creating **real, usable systems** such as:
+- Web-based ordering platforms
+- Game showcase & community websites
+- Interactive UI/UX experiences
 
----
-
-## 🛠 Tech Stack
-
-### 💻 Frontend
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### 🗄 Database
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🔧 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+Currently, I’m growing my skills toward building **production-ready web applications and scalable systems**.
 
 ---
 
-## 🚀 Featured Projects
+## ⚒️ Current Projects
 
-### 💼 Portfolio Website
-Modern developer portfolio with animations and responsive design.
-- ⚙️ Tech: React, Tailwind CSS
-- 📂 Live Demo: https://scrpnxarm.github.io/Portfolio/
+### 🍍 Abang Nenas (In Development)
+A web-based pineapple ordering system designed for simple and efficient customer transactions.
 
----
-
-### 📊 Admin Dashboard (WIP)
-Full-stack admin dashboard system with authentication, role management, and CRUD features.
-
-- ⚙️ Tech: Node.js, Express, MySQL
-- 🚧 Status: In Development
-- 📂 Repo: Coming soon
+Features:
+- Online order submission
+- Customer information system (phone & address)
+- Order status tracking
+- Email notification system
 
 ---
 
-### 🛒 E-Commerce Project (Coming Soon)
-Currently developing a full-stack e-commerce website with cart system, authentication, and admin dashboard.
+### 🎮 MountCommunity (Live)
+A game showcase & community platform built to centralize my game projects and connect players.
 
-- ⚙️ Tech: React, Node.js, MongoDB
-- 🚧 Status: In Development
+🔗 Live Site: https://scrpnxarm.github.io/MountCommunity/
+
+Features:
+- Game listings & updates
+- Community Discord integration
+- Simple UI for user navigation
 
 ---
 
-## 📊 GitHub Stats
+## 🧩 Focus Areas
+
+- Frontend Development (HTML, CSS, JavaScript)
+- UI/UX Design for Web Interfaces
+- System Thinking & Project Structuring
+- Game-related web systems
+
+---
+
+## 📚 Currently Learning
+
+- Advanced JavaScript & Modern Web Patterns
+- React (component-based architecture)
+- Backend fundamentals (APIs & databases)
+- Deployment & project scaling
+
+---
+
+## 📊 GitHub Overview
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ScrpNXArm&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ScrpNXArm&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ScrpNXArm&layout=compact&theme=tokyonight)
 
 ---
 
-## 📈 Activity Graph
+## 🎯 Vision
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ScrpNXArm&theme=tokyo-night)
-
----
-
-## 🏆 Achievements
-
-- 🎯 Built multiple full-stack web applications
-- 🚀 Completed freelance projects for clients
-- 📱 Focused on responsive and modern UI design
-- 💡 Constantly improving coding skills
+To become a developer who can build complete digital products — from idea to deployment — with strong focus on usability, performance, and real-world impact.
 
 ---
 
-## 📬 Contact Me
+## 📫 Contact
 
-- 📧 Email: aarmanyazid@gmail.com   
-- 💻 GitHub: [https://github.com/USERNAME ](https://github.com/ScrpNXArm) 
-- 🔗 LinkedIn: https://www.linkedin.com/in/scorpion-nw-b45b0b363?utm_source=share_via&utm_content=profile&utm_medium=member_ios
-
----
-
-## ⚡ Quote
-
-> “Code is not just code, it’s a solution to real problems.”
+- GitHub: https://github.com/ScrpNXArm  
+- Email: aarmanyazid@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/scorpion-nw-b45b0b363  
 
 ---
 
-⭐ If you like my work, feel free to follow and star my repositories!
+## ⚡ Closing Thought
+
+> “I don’t just build projects. I build systems that solve problems.”
+
+---
