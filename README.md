@@ -75,7 +75,7 @@ Responsive online store with cart system and payment integration.
 
 ## 📈 Activity Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ScrpNXArm&theme=tokyo-night)
 
 ---
 
