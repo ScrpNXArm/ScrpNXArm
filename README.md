@@ -39,9 +39,8 @@ I enjoy turning ideas into real products using modern technologies.
 
 ## 🤝 Let's Connect
 
-- 📧 Email: [Your Email]
-- 💼 LinkedIn: [Your LinkedIn]
-- 🐦 Twitter: [@YourHandle]
+- 📧 Email: [armanyazid50@gmail.com]
+- 💼 LinkedIn: [https://www.linkedin.com/in/scorpion-nw-b45b0b363?utm_source=share_via&utm_content=profile&utm_medium=member_ios]
 
 ---
 
